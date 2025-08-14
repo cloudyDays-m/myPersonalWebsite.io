@@ -1,0 +1,84 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Intel+One+Mono:wght@300;400;500;600;700&display=swap&display=swap');
+
+  body {
+    background-color: #e4decd;
+    font-family: 'Intel One Mono', monospace;
+  }
+  main{
+
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 5%;
+    margin-left: 5%;
+  }
+
+  h1 {
+    color: #564e4d;
+    font-weight: 700;
+  }
+
+  h3 {
+
+    color: #d4b9a9;
+
+  }
+  .glass {
+
+    border-radius : 15%;
+  }
+  .compsci {
+    padding: 1.5em;
+
+  }
+  img {
+    margin-bottom: 2em;
+
+
+  }
+
+  .content-list {
+    list-style-type: disc;
+    margin: 1em 0;
+    padding-left: 2em;
+  }
+  .content-list li {
+    margin-bottom: 0.5em;
+  }
+
+html, body {
+
+    height: 100%;
+    width: 100%;
+}
+
+.vert-text {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.vert-text h1 {
+
+    padding: 0;
+    margin: 0;
+    font-size: 4.5em;
+    font-weight: 700;
+}
+
+.header {
+
+    display: table;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    background: url(assets/champagneglasses.jpg) no-repeat center center fixed ;
+
+
+}
+
+.intro {
+    padding: 50px 0;
+}
+
+
